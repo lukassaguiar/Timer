@@ -1,12 +1,11 @@
 <h1 align="center">Timer</h1>
 
 <p align="center">
-Programa criado e desenvolvido por Lucas Aguiar
-
+Programa criado e desenvolvido por Lucas Aguiar.
 <br>
 
 <p align="center">
-  <img alt="Timer" src=".github/projeto1.png" width="100%">
+  <img alt="Timer" src=".github/timer1.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
