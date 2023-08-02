@@ -1,7 +1,7 @@
 <h1 align="center">Timer</h1>
 
 <p align="center">
-Programa criado e desenvolvido por Lucas Aguiar.
+Programa criado e desenvolvido por Lucas Aguiar.</p>
 <br>
 
 <p align="center">
