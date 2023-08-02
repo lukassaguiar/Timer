@@ -5,7 +5,7 @@ Programa criado e desenvolvido por Lucas Aguiar.</p>
 <br>
 
 <p align="center">
-  <img alt="Timer" src=".github/timer1.png" width="100%">
+  <img alt="Timer" src=".github/timer1.png" width="30%">
 </p>
 
 ## 🚀 Tecnologias
