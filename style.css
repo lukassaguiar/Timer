@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+}
+
+h1{
+  color: white;
+}
+
+div {
+  text-align: center;
+}
+
+button { 
+  height: 2.5em;
+  width: 6.0em;
+  border-radius: 5px;
+  color: white;
+}
+
+button:hover { /*pseudoclase qnd fica a mãozinha por cima*/
+  cursor: pointer;
+}
+
+.start-btn {
+  background-color: green;
+}
+
+.pause-btn {
+  background-color: grey;
+}
+
+.stop-btn {
+  background-color: red;
+}
